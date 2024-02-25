@@ -15,7 +15,7 @@ Hello fellow coders! This repository contains solutions to the Coding Ninjas (st
 ### 1. **Arrays**
 
    - **Description**: This section includes solutions to array-related challenges. Arrays are a fundamental data structure, and mastering them is essential for coding interviews. The challenges cover topics such as manipulation, rotation, and searching in arrays.
-   - 
+
 ### 2. **Dictionaries & Hashmaps**
 
    - **Description**: In this section, you'll find solutions to challenges related to dictionaries and hashmaps. Understanding how to efficiently use key-value pairs is crucial for solving problems involving frequency counting, mapping, and data retrieval.
