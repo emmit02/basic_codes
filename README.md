@@ -1,62 +1,36 @@
-# Array Operations and HackerRank Interview Preparation Kit
+# Practice codes:Coding Ninja solution + HackerRank Interview Preparation Kit
 
-This repository contains a collection of array operation codes and solutions to coding questions from HackerRank's Interview Preparation Kit.
+## 🏆 Introduction
+Hello fellow coders! This repository contains solutions to the Coding Ninjas (striver practice question) + HackerRank Interview Preparation Kit.
 
-## Array Operations
+## 🛠 Structure: Striver 
 
-### 1. **Array Rotation**
+### 💻 Problem Set:
 
-   - **Description**: Code for rotating an array to the left or right by a given number of positions.
-   - **File**: `array_rotation.py`
-
-### 2. **Array Sorting**
-
-   - **Description**: Implementation of various array sorting algorithms.
-   - **Files**: `bubble_sort.py`, `insertion_sort.py`, `merge_sort.py`, `quick_sort.py`
-
-### 3. **Array Searching**
-
-   - **Description**: Code for searching an element in an array using different algorithms.
-   - **Files**: `linear_search.py`, `binary_search.py`
+### 1. **Patterns**
+  
 
 ## HackerRank Interview Preparation Kit
 
-### 1. **Arrays: Left Rotation**
+### 1. **Arrays**
 
-   - **Description**: Solution to HackerRank problem [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem).
-   - **File**: `left_rotation.py`
+   - **Description**: This section includes solutions to array-related challenges. Arrays are a fundamental data structure, and mastering them is essential for coding interviews. The challenges cover topics such as manipulation, rotation, and searching in arrays.
+   - 
+### 2. **Dictionaries & Hashmaps**
 
-### 2. **Arrays: 2D Array - DS**
+   - **Description**: In this section, you'll find solutions to challenges related to dictionaries and hashmaps. Understanding how to efficiently use key-value pairs is crucial for solving problems involving frequency counting, mapping, and data retrieval.
+      
+### 3. **Warm-ups**
 
-   - **Description**: Solution to HackerRank problem [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem).
-   - **File**: `hourglass_sum.py`
+   - **Description**: The warm-up section consists of introductory challenges designed to ease you into the problem-solving mindset. These problems cover basic programming constructs, ensuring you have a solid grasp of fundamental concepts before diving into more complex challenges.
 
-### 3. **Arrays: New Year Chaos**
+## 🏅 The Strategy to Victory
 
-   - **Description**: Solution to HackerRank problem [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem).
-   - **File**: `minimum_bribes.py`
+Conquering every challenge from earning Experience Points (EXP) along the way. Combined score is a testament to the strategy.
+#CodingNinjasStudio.🌐📣
 
-### 4. **Arrays: Minimum Swaps 2**
+## 🌟 The Ascent to Coding Royalty
 
-   - **Description**: Solution to HackerRank problem [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem).
-   - **File**: `minimum_swaps.py`
+Ingenuity to determined the ascent to the throne, wearing the crown of the solving practice questions. 🎓👑
 
-## How to Use
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/array-hackerrank-prep.git
-    ```
-
-2. Navigate to the directory:
-
-    ```bash
-    cd array-hackerrank-prep
-    ```
-
-3. Run any array operation code or HackerRank solution as needed.
-
-Feel free to contribute by adding more array operations or solutions to other HackerRank problems! If you find any issues or have improvements, please open an issue or submit a pull request.
-
-Happy coding!
+Thank you striver for this incredible coding journey! Happy Coding!!
