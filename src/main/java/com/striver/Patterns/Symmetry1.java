@@ -62,4 +62,4 @@ public class Symmetry1 {
 
 
 1-   2,3,16
-2-   5,
+2-   5,19
