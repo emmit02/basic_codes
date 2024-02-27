@@ -1,4 +1,4 @@
-# Practice codes:Coding Ninja solution + HackerRank Interview Preparation Kit
+# Practice codes: Striver(Coding Ninja+LeetCode) + HRank Interview Preparation Kit
 
 ## 🏆 Introduction
 Hello fellow coders! This repository contains solutions to the Coding Ninjas (striver practice question) + HackerRank Interview Preparation Kit.
