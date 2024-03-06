@@ -8,7 +8,7 @@ Hello fellow coders! This repository contains solutions to the Coding Ninjas (st
 ### 💻 Problem Set:
 
 ### 1. **Patterns**
-### 1. **Array Series**
+### 2. **Array Series**
   
 
 ## HackerRank Interview Preparation Kit
