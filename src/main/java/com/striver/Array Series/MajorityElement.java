@@ -1,8 +1,5 @@
 Problem statement
 You are given an array 'a' of 'n' integers.
-
-
-
 A majority element in the array ‘a’ is an element that appears more than 'n' / 2 times.
 
 
