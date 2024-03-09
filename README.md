@@ -9,6 +9,9 @@ Hello fellow coders! This repository contains solutions to the Coding Ninjas (st
 
 ### 1. **Patterns**
 ### 2. **Array Series**
+  #### 1. Basic
+  #### 2. Easy
+  #### 3. Hard
   
 
 ## HackerRank Interview Preparation Kit
