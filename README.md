@@ -12,6 +12,7 @@ Hello fellow coders! This repository contains solutions to the Coding Ninjas (st
   #### 1. Basic
   #### 2. Easy
   #### 3. Hard
+  #### 3. Expert
   
 
 ## HackerRank Interview Preparation Kit
