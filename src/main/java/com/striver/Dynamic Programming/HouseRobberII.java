@@ -11,7 +11,6 @@ You are given an array/list of non-negative integers 'ARR' representing the amou
 
 
 
-
 Note:
 It is possible for Mr. X to rob the same amount of money by looting two different sets of houses. Just print the maximum possible robbed amount, irrespective of sets of houses robbed.
 
